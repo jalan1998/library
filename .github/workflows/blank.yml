@@ -4,3 +4,4 @@ b = 'hellow ,world'
 a = str(input('?:'))
 if a = = b :
   print ('hey,man!')
+end
