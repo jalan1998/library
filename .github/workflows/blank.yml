@@ -1,9 +1,6 @@
 - name: Cache
   uses: actions/cache@v1.0.3
-  with:
-    ＃用于存储和保存缓存
-    path: 
-   ＃用于还原和保存缓存
-    key: 
-    # 如果密钥没有缓存命中，则用于还原缓存的密钥的有序列表
-    restore-keys: # 可选
+b = 'hellow ,world'
+a = str(input('?:'))
+if a = = b :
+  print ('hey,man!')
